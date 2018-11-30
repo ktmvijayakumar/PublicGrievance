@@ -1,0 +1,71 @@
+@CHARSET "ISO-8859-1";
+
+.headrelative{
+	position: relative;
+}
+.gallery{
+	text-align: center;
+}
+.gallery-content{
+	margin-top: 30px;
+	color: #ECA11F;
+}
+#image{
+	width: auto;
+	height: 190px;
+}
+.textcontent-viewcomplaint{
+	margin-top: 30px;
+	max-width:  75%;
+	text-align: center;
+}
+.textcontent-complaint{
+	margin-top: 30px;
+	max-width:  75%;
+	text-align: center;
+	padding: 20px;
+	border-top:3px solid #ECA11F;
+	border-bottom:3px solid #ECA11F;
+}
+.textcontent-checkstatuscomplaint{
+	margin-top: 30px;
+	max-width: 50%;
+	text-align: center;
+}
+.bending{
+	font-size:20px;
+	color: red;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+}
+.tabletitle{
+	font-size: 20px;
+}
+
+.checkComplaintStatus{
+	margin-top: 75px;
+	padding: 30px;
+	border: 2px solid  #ECA11F;
+	color:#000000;
+	max-width:500px;
+}
+.index-center-profile{
+	position: relative;
+	margin: auto;
+	margin-top: 60px;
+	padding: 30px;
+	border: 2px solid  #ECA11F;
+	color:#000000;
+	max-width: 60%;
+}
+.tableprofile{
+	width: 60%;
+}
